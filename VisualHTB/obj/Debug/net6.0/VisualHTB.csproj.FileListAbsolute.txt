@@ -1,0 +1,14 @@
+C:\Users\0xm3m\source\repos\VisualHTB\bin\Debug\net6.0\VisualHTB.exe
+C:\Users\0xm3m\source\repos\VisualHTB\bin\Debug\net6.0\VisualHTB.deps.json
+C:\Users\0xm3m\source\repos\VisualHTB\bin\Debug\net6.0\VisualHTB.runtimeconfig.json
+C:\Users\0xm3m\source\repos\VisualHTB\bin\Debug\net6.0\VisualHTB.dll
+C:\Users\0xm3m\source\repos\VisualHTB\bin\Debug\net6.0\VisualHTB.pdb
+C:\Users\0xm3m\source\repos\VisualHTB\obj\Debug\net6.0\VisualHTB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0xm3m\source\repos\VisualHTB\obj\Debug\net6.0\VisualHTB.AssemblyInfoInputs.cache
+C:\Users\0xm3m\source\repos\VisualHTB\obj\Debug\net6.0\VisualHTB.AssemblyInfo.cs
+C:\Users\0xm3m\source\repos\VisualHTB\obj\Debug\net6.0\VisualHTB.csproj.CoreCompileInputs.cache
+C:\Users\0xm3m\source\repos\VisualHTB\obj\Debug\net6.0\VisualHTB.dll
+C:\Users\0xm3m\source\repos\VisualHTB\obj\Debug\net6.0\refint\VisualHTB.dll
+C:\Users\0xm3m\source\repos\VisualHTB\obj\Debug\net6.0\VisualHTB.pdb
+C:\Users\0xm3m\source\repos\VisualHTB\obj\Debug\net6.0\VisualHTB.genruntimeconfig.cache
+C:\Users\0xm3m\source\repos\VisualHTB\obj\Debug\net6.0\ref\VisualHTB.dll

